@@ -23,7 +23,7 @@ My goal is to secure an entry-level web developer position where I can contribut
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kaushamahida@gmail.com](mailto:kaushamahida@gmail.com)
 * 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on MERN Stack Projects
+* 🤝  I'm open to collaborating on Web Development
 
 ### Skills
 
