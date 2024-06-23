@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kaushal Mahida
 ======================================================================================================================================
 
-Web Developer
+Full-Stack Developer
 -------------
 
 ### About Me
@@ -23,7 +23,7 @@ My goal is to secure an entry-level web developer position where I can contribut
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kaushamahida@gmail.com](mailto:kaushamahida@gmail.com)
 * 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on Web Development
+* 🤝  I'm open to collaborating on Full-stack Web Development Projects
 
 ### Skills
 
